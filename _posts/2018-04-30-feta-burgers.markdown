@@ -8,33 +8,41 @@ image: /assets/article_images/2018-04-30-feta-burgers/hero.jpg
 ---
 ### Ingredients
 
-_Burgers_
-* Brioche burger buns
-* Beef mince (fattier the better)
-* 1 rasher bacon (as streaky as possible)
-* Cos lettuce
-* Tomato
-* Beetroot (larger the better)
+----
 
-_Immersion blender herb aioli_
-* 1 egg
-* 1 cup canola/vegetable/sunflower oil
-* 1 clove garlic, finely grated
-* Juice of 1 lemon
-* Salt and pepper
-* 1tsp Wholegrain mustard
-* Fresh basil
-* Fresh Chives (optional)
+**Burgers**
 
-_Fried feta_
-* Feta cheese
-* Flour
-* Breadcrumbs
-* 1 egg
-* Canola/Vegetable/Sunflower oil for frying
++ Brioche burger buns
++ Beef mince (fattier the better)
++ 1 rasher bacon (as streaky as possible)
++ Cos lettuce
++ Tomato
++ Beetroot (larger the better)
+
+**Immersion blender herb aioli**
+
++ 1 egg
++ 1 cup canola/vegetable/sunflower oil
++ 1 clove garlic, finely grated
++ Juice of 1 lemon
++ Salt and pepper
++ 1tsp Wholegrain mustard
++ Fresh basil
++ Fresh Chives (optional)
+
+**Fried feta**
+
++ Feta cheese
++ Flour
++ Breadcrumbs
++ 1 egg
++ Canola/Vegetable/Sunflower oil for frying
 
 
 ### Method
+
+----
+
 Start by peeling the beetroot and slicing it into 1/2cm thick rounds.  Coat the beetroot with a thin layer of oil, season with salt and pepper and place on a baking tray lined with baking paper.  Bake at 200°C for 25-35 mins
 
 While the beetroot rounds are baking, begin on the herb aioli.  For this we will use an immersion blender to make aioli faster than usual.  In a tall cup just wider than the diameter of your immersion blender add the egg, garlic, lemon juice, mustard and season with salt and pepper.  Over the back of a tablespoon, gently pour in the cup of oil so the oil sits on top of the rest of the ingredients.  With the blender turned off, lower it into the cup so its resting on the bottom, then turn on and blend until the mixture turns thick and sticky.  Make sure to slowly raise the blender as the mixture thickens to ensure all the oil is incorporated.
