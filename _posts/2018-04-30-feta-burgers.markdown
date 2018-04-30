@@ -7,6 +7,7 @@ tags: featured
 image: /assets/article_images/2018-04-30-feta-burgers/hero.jpg
 ---
 ### Ingredients
+
 #### Burgers
 Brioche burger buns
 Beef mince (fattier the better)
@@ -14,6 +15,7 @@ Beef mince (fattier the better)
 Cos lettuce
 Tomato
 Beetroot (larger the better)
+
 #### Immersion blender herb aioli
 1 egg
 1 cup canola/vegetable/sunflower oil
@@ -23,6 +25,7 @@ Salt and pepper
 1tsp Wholegrain mustard
 Fresh basil
 Fresh Chives (optional)
+
 #### Fried feta
 Feta cheese
 Flour
@@ -40,15 +43,15 @@ While the beetroot rounds are baking, begin on the herb aioli.  For this we will
 
 Once the aioli is complete, mix in finely chopped chives and basil.
 
-!(/assets/article_images/2018-04-30-feta-burgers/aioli.jpg "Finished Aioli")
+![](/assets/article_images/2018-04-30-feta-burgers/aioli.jpg "Finished Aioli")
 
 Cut the feta into thin (approx 1/2cm) squares roughly the same area as your burger bun.
 
-!(/assets/article_images/2018-04-30-feta-burgers/cut_feta.jpg "Feta ready for breading")
+![](/assets/article_images/2018-04-30-feta-burgers/cut_feta.jpg "Feta ready for breading")
 
 In a bowl that is big enough to fit the feta slices, whisk an egg.  On two plates add flour with  salt and pepper on one, and breadcrumbs to the other.  Then take the pieces of feta one by one and begin coating them in flour, then egg and finally breadcrumbs.  Place on a plate and set aside ready for frying.
 
-!(/assets/article_images/2018-04-30-feta-burgers/breaded_feta.jpg "Breaded Feta")
+![](/assets/article_images/2018-04-30-feta-burgers/breaded_feta.jpg "Breaded Feta")
 
 To prepare the burgers, begin by mincing the bacon as finely as possible.  It's important the bacon is finely minced as the burgers will not hold together properly if the pieces are too large.  Mix the minced bacon with the beef mince until combined.  Make sure to not overwork the mince as this will lead to a tough burger.  Form the mince into approx. 1cm thick patties that are a bit larger than the brioche buns (the burgers will shrink in cooking) and season both sides of the burgers with salt and pepper.
 
@@ -60,4 +63,4 @@ While the burgers are cooking, place the breaded feta in the other pan with oil,
 
 Assemble your burger with aioli, burger pattie, feta, slice of tomato, roast beetroot and lettuce. Enjoy!!
 
-![finished burger](/assets/article_images/2018-04-30-feta-burgers/hero.jpg "Finished Feta Burger")
+![](/assets/article_images/2018-04-30-feta-burgers/hero.jpg "Finished Feta Burger")
