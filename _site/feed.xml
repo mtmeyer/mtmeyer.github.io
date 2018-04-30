@@ -6,35 +6,38 @@
 </description>
     <link>http://myblog.***.***/</link>
     <atom:link href="http://myblog.***.***/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 30 Apr 2018 23:41:43 +1000</pubDate>
-    <lastBuildDate>Mon, 30 Apr 2018 23:41:43 +1000</lastBuildDate>
+    <pubDate>Mon, 30 Apr 2018 23:45:42 +1000</pubDate>
+    <lastBuildDate>Mon, 30 Apr 2018 23:45:42 +1000</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
         <title>Feta burgers - Inspired by @dennistheprescott</title>
         <description>&lt;h3 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h3&gt;
-&lt;p&gt;#### Burgers
-Brioche burger buns
-Beef mince (fattier the better)
-1 rasher bacon (as streaky as possible)
-Cos lettuce
-Tomato
-Beetroot (larger the better)
-#### Immersion blender herb aioli
-1 egg
-1 cup canola/vegetable/sunflower oil
-1 clove garlic, finely grated
-Juice of 1 lemon
-Salt and pepper
-1tsp Wholegrain mustard
-Fresh basil
-Fresh Chives (optional)
-#### Fried feta
-Feta cheese
-Flour
-Breadcrumbs
-1 egg
-Canola/Vegetable/Sunflower oil for frying&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Burgers&lt;/em&gt;
+* Brioche burger buns
+* Beef mince (fattier the better)
+* 1 rasher bacon (as streaky as possible)
+* Cos lettuce
+* Tomato
+* Beetroot (larger the better)&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Immersion blender herb aioli&lt;/em&gt;
+* 1 egg
+* 1 cup canola/vegetable/sunflower oil
+* 1 clove garlic, finely grated
+* Juice of 1 lemon
+* Salt and pepper
+* 1tsp Wholegrain mustard
+* Fresh basil
+* Fresh Chives (optional)&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Fried feta&lt;/em&gt;
+* Feta cheese
+* Flour
+* Breadcrumbs
+* 1 egg
+* Canola/Vegetable/Sunflower oil for frying&lt;/p&gt;
 
 &lt;h3 id=&quot;method&quot;&gt;Method&lt;/h3&gt;
 &lt;p&gt;Start by peeling the beetroot and slicing it into 1/2cm thick rounds.  Coat the beetroot with a thin layer of oil, season with salt and pepper and place on a baking tray lined with baking paper.  Bake at 200°C for 25-35 mins&lt;/p&gt;
@@ -45,15 +48,15 @@ Canola/Vegetable/Sunflower oil for frying&lt;/p&gt;
 
 &lt;p&gt;Once the aioli is complete, mix in finely chopped chives and basil.&lt;/p&gt;
 
-&lt;p&gt;!(/assets/article_images/2018-04-30-feta-burgers/aioli.jpg “Finished Aioli”)&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/article_images/2018-04-30-feta-burgers/aioli.jpg&quot; alt=&quot;&quot; title=&quot;Finished Aioli&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Cut the feta into thin (approx 1/2cm) squares roughly the same area as your burger bun.&lt;/p&gt;
 
-&lt;p&gt;!(/assets/article_images/2018-04-30-feta-burgers/cut_feta.jpg “Feta ready for breading”)&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/article_images/2018-04-30-feta-burgers/cut_feta.jpg&quot; alt=&quot;&quot; title=&quot;Feta ready for breading&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;In a bowl that is big enough to fit the feta slices, whisk an egg.  On two plates add flour with  salt and pepper on one, and breadcrumbs to the other.  Then take the pieces of feta one by one and begin coating them in flour, then egg and finally breadcrumbs.  Place on a plate and set aside ready for frying.&lt;/p&gt;
 
-&lt;p&gt;!(/assets/article_images/2018-04-30-feta-burgers/breaded_feta.jpg “Breaded Feta”)&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/article_images/2018-04-30-feta-burgers/breaded_feta.jpg&quot; alt=&quot;&quot; title=&quot;Breaded Feta&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;To prepare the burgers, begin by mincing the bacon as finely as possible.  It’s important the bacon is finely minced as the burgers will not hold together properly if the pieces are too large.  Mix the minced bacon with the beef mince until combined.  Make sure to not overwork the mince as this will lead to a tough burger.  Form the mince into approx. 1cm thick patties that are a bit larger than the brioche buns (the burgers will shrink in cooking) and season both sides of the burgers with salt and pepper.&lt;/p&gt;
 
@@ -65,7 +68,7 @@ Canola/Vegetable/Sunflower oil for frying&lt;/p&gt;
 
 &lt;p&gt;Assemble your burger with aioli, burger pattie, feta, slice of tomato, roast beetroot and lettuce. Enjoy!!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/article_images/2018-04-30-feta-burgers/hero.jpg&quot; alt=&quot;finished burger&quot; title=&quot;Finished Feta Burger&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/article_images/2018-04-30-feta-burgers/hero.jpg&quot; alt=&quot;&quot; title=&quot;Finished Feta Burger&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 01 May 2018 00:34:25 +1000</pubDate>
         <link>http://myblog.***.***/burgers/2018/05/01/feta-burgers.html</link>

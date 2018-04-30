@@ -8,30 +8,30 @@ image: /assets/article_images/2018-04-30-feta-burgers/hero.jpg
 ---
 ### Ingredients
 
-#### Burgers
-Brioche burger buns
-Beef mince (fattier the better)
-1 rasher bacon (as streaky as possible)
-Cos lettuce
-Tomato
-Beetroot (larger the better)
+_Burgers_
+* Brioche burger buns
+* Beef mince (fattier the better)
+* 1 rasher bacon (as streaky as possible)
+* Cos lettuce
+* Tomato
+* Beetroot (larger the better)
 
-#### Immersion blender herb aioli
-1 egg
-1 cup canola/vegetable/sunflower oil
-1 clove garlic, finely grated
-Juice of 1 lemon
-Salt and pepper
-1tsp Wholegrain mustard
-Fresh basil
-Fresh Chives (optional)
+_Immersion blender herb aioli_
+* 1 egg
+* 1 cup canola/vegetable/sunflower oil
+* 1 clove garlic, finely grated
+* Juice of 1 lemon
+* Salt and pepper
+* 1tsp Wholegrain mustard
+* Fresh basil
+* Fresh Chives (optional)
 
-#### Fried feta
-Feta cheese
-Flour
-Breadcrumbs
-1 egg
-Canola/Vegetable/Sunflower oil for frying
+_Fried feta_
+* Feta cheese
+* Flour
+* Breadcrumbs
+* 1 egg
+* Canola/Vegetable/Sunflower oil for frying
 
 
 ### Method
