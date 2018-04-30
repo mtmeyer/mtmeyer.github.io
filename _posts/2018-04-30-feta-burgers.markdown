@@ -31,7 +31,7 @@ Breadcrumbs
 Canola/Vegetable/Sunflower oil for frying
 
 
-###Method
+### Method
 Start by peeling the beetroot and slicing it into 1/2cm thick rounds.  Coat the beetroot with a thin layer of oil, season with salt and pepper and place on a baking tray lined with baking paper.  Bake at 200°C for 25-35 mins
 
 While the beetroot rounds are baking, begin on the herb aioli.  For this we will use an immersion blender to make aioli faster than usual.  In a tall cup just wider than the diameter of your immersion blender add the egg, garlic, lemon juice, mustard and season with salt and pepper.  Over the back of a tablespoon, gently pour in the cup of oil so the oil sits on top of the rest of the ingredients.  With the blender turned off, lower it into the cup so its resting on the bottom, then turn on and blend until the mixture turns thick and sticky.  Make sure to slowly raise the blender as the mixture thickens to ensure all the oil is incorporated.
@@ -40,15 +40,15 @@ While the beetroot rounds are baking, begin on the herb aioli.  For this we will
 
 Once the aioli is complete, mix in finely chopped chives and basil.
 
-![finished aioli](/assets/article_images/2018-04-30-feta-burgers/aioli.jpg "Finished Aioli")
+!(/assets/article_images/2018-04-30-feta-burgers/aioli.jpg "Finished Aioli")
 
 Cut the feta into thin (approx 1/2cm) squares roughly the same area as your burger bun.
 
-![cut feta](/assets/article_images/2018-04-30-feta-burgers/cut_feta.jpg "Feta ready for breading")
+!(/assets/article_images/2018-04-30-feta-burgers/cut_feta.jpg "Feta ready for breading")
 
 In a bowl that is big enough to fit the feta slices, whisk an egg.  On two plates add flour with  salt and pepper on one, and breadcrumbs to the other.  Then take the pieces of feta one by one and begin coating them in flour, then egg and finally breadcrumbs.  Place on a plate and set aside ready for frying.
 
-![breaded feta](/assets/article_images/2018-04-30-feta-burgers/breaded_feta.jpg "Breaded Feta")
+!(/assets/article_images/2018-04-30-feta-burgers/breaded_feta.jpg "Breaded Feta")
 
 To prepare the burgers, begin by mincing the bacon as finely as possible.  It's important the bacon is finely minced as the burgers will not hold together properly if the pieces are too large.  Mix the minced bacon with the beef mince until combined.  Make sure to not overwork the mince as this will lead to a tough burger.  Form the mince into approx. 1cm thick patties that are a bit larger than the brioche buns (the burgers will shrink in cooking) and season both sides of the burgers with salt and pepper.
 

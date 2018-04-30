@@ -6,34 +6,66 @@
 </description>
     <link>http://myblog.***.***/</link>
     <atom:link href="http://myblog.***.***/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 30 Apr 2018 22:04:13 +1000</pubDate>
-    <lastBuildDate>Mon, 30 Apr 2018 22:04:13 +1000</lastBuildDate>
+    <pubDate>Mon, 30 Apr 2018 23:39:00 +1000</pubDate>
+    <lastBuildDate>Mon, 30 Apr 2018 23:39:00 +1000</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
         <title>Feta burgers - Inspired by @dennistheprescott</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve --watch&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <description>&lt;h3 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h3&gt;
+&lt;p&gt;#### Burgers
+Brioche burger buns
+Beef mince (fattier the better)
+1 rasher bacon (as streaky as possible)
+Cos lettuce
+Tomato
+Beetroot (larger the better)
+#### Immersion blender herb aioli
+1 egg
+1 cup canola/vegetable/sunflower oil
+1 clove garlic, finely grated
+Juice of 1 lemon
+Salt and pepper
+1tsp Wholegrain mustard
+Fresh basil
+Fresh Chives (optional)
+#### Fried feta
+Feta cheese
+Flour
+Breadcrumbs
+1 egg
+Canola/Vegetable/Sunflower oil for frying&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;h3 id=&quot;method&quot;&gt;Method&lt;/h3&gt;
+&lt;p&gt;Start by peeling the beetroot and slicing it into 1/2cm thick rounds.  Coat the beetroot with a thin layer of oil, season with salt and pepper and place on a baking tray lined with baking paper.  Bake at 200°C for 25-35 mins&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;While the beetroot rounds are baking, begin on the herb aioli.  For this we will use an immersion blender to make aioli faster than usual.  In a tall cup just wider than the diameter of your immersion blender add the egg, garlic, lemon juice, mustard and season with salt and pepper.  Over the back of a tablespoon, gently pour in the cup of oil so the oil sits on top of the rest of the ingredients.  With the blender turned off, lower it into the cup so its resting on the bottom, then turn on and blend until the mixture turns thick and sticky.  Make sure to slowly raise the blender as the mixture thickens to ensure all the oil is incorporated.&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;[insert video/gif]&lt;/p&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Once the aioli is complete, mix in finely chopped chives and basil.&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-js&quot; data-lang=&quot;js&quot;&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;footer&lt;/span&gt; &lt;span class=&quot;kr&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;site-footer&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;
- &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;kr&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;subscribe&amp;quot;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;href&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;/feed.xml&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;span&lt;/span&gt; &lt;span class=&quot;kr&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;tooltip&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;kr&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;fa fa-rss&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;/i&amp;gt; Subscribe!&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;div&lt;/span&gt; &lt;span class=&quot;kr&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;inner&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;a&lt;/span&gt;
-   &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;section&lt;/span&gt; &lt;span class=&quot;kr&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;copyright&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;All&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;content&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;copyright&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;href&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;mailto:&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;Mickeymug&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;/a&amp;gt; &amp;amp;copy; 2018 &amp;amp;bull; All rights reserved.&amp;lt;/section&amp;gt;&lt;/span&gt;
-   &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;section&lt;/span&gt; &lt;span class=&quot;kr&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;poweredby&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;Made&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;with&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;href&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;http://jekyllrb.com&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;Jekyll&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;/a&amp;gt;&amp;lt;/section&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;/div&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;/footer&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/article_images/2018-04-30-feta-burgers/aioli.jpg&quot; alt=&quot;finished aioli&quot; title=&quot;Finished Aioli&quot; /&gt;&lt;/p&gt;
 
+&lt;p&gt;Cut the feta into thin (approx 1/2cm) squares roughly the same area as your burger bun.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/article_images/2018-04-30-feta-burgers/cut_feta.jpg&quot; alt=&quot;cut feta&quot; title=&quot;Feta ready for breading&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In a bowl that is big enough to fit the feta slices, whisk an egg.  On two plates add flour with  salt and pepper on one, and breadcrumbs to the other.  Then take the pieces of feta one by one and begin coating them in flour, then egg and finally breadcrumbs.  Place on a plate and set aside ready for frying.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/article_images/2018-04-30-feta-burgers/breaded_feta.jpg&quot; alt=&quot;breaded feta&quot; title=&quot;Breaded Feta&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;To prepare the burgers, begin by mincing the bacon as finely as possible.  It’s important the bacon is finely minced as the burgers will not hold together properly if the pieces are too large.  Mix the minced bacon with the beef mince until combined.  Make sure to not overwork the mince as this will lead to a tough burger.  Form the mince into approx. 1cm thick patties that are a bit larger than the brioche buns (the burgers will shrink in cooking) and season both sides of the burgers with salt and pepper.&lt;/p&gt;
+
+&lt;p&gt;Heat a cast iron or stainless steel frying pan over a medium-high heat with a dash of oil for the burgers.  In another pan, add canola/vegetable/sunflower oil until it is 1-1.5cm deep in the pan, then place over a medium high heat for the feta.  &lt;/p&gt;
+
+&lt;p&gt;Once the burger pan is heated, add in the burgers and leave to develop a crust.  The burgers will release from the pan once they have developed a sufficient crust.  Flip over once the first side is done and leave until a crust is formed and the burgers are cooked to your desired doneness (I like medium rare).  Remove burgers from the pan and add the brioche buns to toast, cut side down.&lt;/p&gt;
+
+&lt;p&gt;While the burgers are cooking, place the breaded feta in the other pan with oil, once it is hot enough, ensuring they don’t stick together.  Once they are a golden brown colour on the bottom, flip them over to brown the other side.  Once the whole piece is golden brown, take them out and place them on paper towel to soak up excess oil.&lt;/p&gt;
+
+&lt;p&gt;Assemble your burger with aioli, burger pattie, feta, slice of tomato, roast beetroot and lettuce. Enjoy!!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/article_images/2018-04-30-feta-burgers/hero.jpg&quot; alt=&quot;finished burger&quot; title=&quot;Finished Feta Burger&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 01 May 2018 00:34:25 +1000</pubDate>
         <link>http://myblog.***.***/burgers/2018/05/01/feta-burgers.html</link>
